@@ -2,10 +2,12 @@
   "clientSchemaVersion": 1,
   "serverSchemaVersion": 4,
   "pageOrder": [
-    "Page1"
+    "Page1",
+    "NewPage"
   ],
   "publishedPageOrder": [
-    "Page1"
+    "Page1",
+    "NewPage"
   ],
   "publishedDefaultPageName": "Page1",
   "unpublishedDefaultPageName": "Page1",
