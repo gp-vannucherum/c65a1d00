@@ -28,7 +28,7 @@
           "children": [
             {
               "boxShadow": "none",
-              "widgetName": "Button1",
+              "widgetName": "buttonTemp0Branch",
               "buttonColor": "{{appsmith.theme.colors.primaryColor}}",
               "displayName": "Button",
               "iconSVG": "/static/media/icon.cca02633.svg",
@@ -69,8 +69,8 @@
         },
         "layoutOnLoadActions": [],
         "widgetNames": [
-          "Button1",
-          "MainContainer"
+          "MainContainer",
+          "buttonTemp0Branch"
         ],
         "validOnPageLoadActions": true,
         "id": "Page1",
